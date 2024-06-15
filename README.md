@@ -1,8 +1,11 @@
 #Features
 
 -Responsive Design
+
 -Project Gallery
+
 -About Me
+
 -Contact Section
 -Simple and Clean UI
 -Installation
